@@ -1,0 +1,1 @@
+You can access all the additional results and interactive comparisons by double clicking index.html.
